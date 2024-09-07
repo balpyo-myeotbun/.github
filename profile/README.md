@@ -45,10 +45,10 @@
            </td>
       </tr>
       <tr>
-          <td align="center">[김준식](https://github.com/MatchaKim)</td>
-          <td align="center">[이동헌](https://github.com/Sirius506775)</td>
-          <td align="center">[진지현](https://github.com/serioushyeon)</td>
-          <td align="center">[피유진](https://github.com/PIYUJIN)</td>
+          <td align="center"><a href="https://github.com/MatchaKim">김준식</a></td>
+          <td align="center"><a href="https://github.com/Sirius506775">이동헌</a></td>
+          <td align="center"><a href="https://github.com/serioushyeon">진지현</a></td>
+          <td align="center"><a href="https://github.com/PIYUJIN">피유진</a></td>
       </tr>
       <tr>
           <td align="center">백엔드</td>
