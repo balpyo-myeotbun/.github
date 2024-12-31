@@ -1,5 +1,6 @@
-# 발표몇분 <img src="https://github.com/user-attachments/assets/ef8b37f1-a66d-4af1-9f6a-02ec5587ddee" align=left width=100>
+# 발표몇분 <img src="https://github.com/user-attachments/assets/3a0e93a6-76fb-48f3-9c3c-d8939cafd662" align=left width=100>
 > 최고의 발표 준비를 돕는 최적의 발표 도우미 ⏰
+
 
 <br>
 
