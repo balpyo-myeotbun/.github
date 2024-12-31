@@ -11,7 +11,13 @@
 <br>
 
 ### 📍 Features
-![image](https://github.com/user-attachments/assets/1a6260bd-3d83-4bfe-aa68-51120699b36a)
+![image](https://github.com/user-attachments/assets/d226f662-40ad-45d6-9993-fe9998aa3b3c)
+![image](https://github.com/user-attachments/assets/d5dc2e92-b3db-4b8f-a16c-ca56fc8738be)
+![image](https://github.com/user-attachments/assets/80dda541-36e1-43f0-828a-bca80921991b)
+![image](https://github.com/user-attachments/assets/d4cd074d-0cbd-4b50-9208-63f2648dfea0)
+![image](https://github.com/user-attachments/assets/db95a7ce-39e9-409c-a76a-d4385cb91fbd)
+
+
 
 
 <br>
