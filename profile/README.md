@@ -10,7 +10,9 @@
 
 <br>
 
-<!-- ### 📍 Features -->
+### 📍 Features
+![image](https://github.com/user-attachments/assets/1a6260bd-3d83-4bfe-aa68-51120699b36a)
+
 
 <br>
 
